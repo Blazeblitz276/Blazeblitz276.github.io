@@ -1,2 +1,2 @@
 # Blazeblitz276.github.io
-Balajee's Portfolio Website for shiwcase
+Balajee's Portfolio Website for showcase
