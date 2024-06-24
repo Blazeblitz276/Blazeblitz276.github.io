@@ -90,4 +90,4 @@ Evaluation_html = '''
                 <div class="github-card" data-github="Blazeblitz276/deis-course-evaluation" data-width="400" data-height="" data-theme="default"></div>
                 <script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>                
                 '''
-                
+
